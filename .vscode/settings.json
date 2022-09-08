@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/d52af2b9-3d3c-4dab-bdcb-975b9405c535/microsoft.web/sites/subscriptions/d52af2b9-3d3c-4dab-bdcb-975b9405c535/resourceGroups/learn-journal/providers/Microsoft.Web/sites/learn-journal",
+  "appService.deploySubpath": "."
+}
